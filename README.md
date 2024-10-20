@@ -1,5 +1,5 @@
 ## Project Overview
-The purpose of this project was to explore beta relative to the S&P 500. Specifically, the analysis will be used to aid in the formation of beta-weighted delta-neutral stock option portfolios. This is merely the start of the project, and as time progresses I will continue to add new findings to the project.
+The purpose of this project was to explore beta relative to the S&P 500. Specifically, the analysis will be used to aid in the formation of beta-weighted delta-neutral stock option portfolios. This is merely the start of the project, and as time progresses I will continue to add new findings to the repository.
 
 ## Steps Involved:
 1. Extract data from the Bloomberg Terminal using the API and import it into Excel.
